@@ -34,4 +34,4 @@ Complete the source code in order to print the float stored in the variable numb
         followed by a new line
     You are not allowed to cast number to string
     You have to use f-strings
-
+ by collins
